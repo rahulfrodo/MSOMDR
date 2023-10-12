@@ -1,2 +1,3 @@
 # MSOMDR
-Multivariate Scalar on Multidimensional Distribution Regression
+This repository contains implementation of "Multivariate Scalar on Multidimensional Distribution Regression", Ghosal and Matabuena, 2023. Download the attached software.zip file containing the source codes in R and .html illustration of the proposed method.
+
